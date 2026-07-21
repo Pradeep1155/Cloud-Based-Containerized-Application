@@ -4,7 +4,6 @@
 
 This project demonstrates the deployment of a Dockerized web application on Amazon Web Services (AWS). The application is hosted on multiple EC2 instances and distributed through an Application Load Balancer (ALB) to provide high availability and improved reliability.
 
-https://github.com/Pradeep1155/Cloud-Based-Containerized-Application/blob/main/Screenshot%202026-07-21%20154641.png?raw=true
 
 ##  Objectives
 
