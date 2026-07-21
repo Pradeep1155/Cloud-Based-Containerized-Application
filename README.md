@@ -126,13 +126,7 @@ Calculator Application
 
 ##  Screenshots
 
-| Screenshot | Description |
-|------------|-------------|
-| Home Page | Calculator Application |
-| Docker | Running Container |
-| EC2 | Running Instances |
-| Target Group | Healthy Targets |
-| ALB | Active Load Balancer |
+
 
 ---
 
