@@ -105,7 +105,7 @@ docker ps
 
 ---
 
-## 🔄 Request Flow
+## Request Flow
 
 ```
 User Request
@@ -131,7 +131,7 @@ Calculator Application
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Docker Containerization
 - AWS EC2 Management
@@ -153,14 +153,8 @@ Calculator Application
 
 ---
 
-## 👨‍💻 Author
 
-**Pradeep Kumar**
 
-**Role:** Aspiring DevOps & Cloud Engineer
 
-GitHub: https://github.com/Pradeep1155
-
----
 
 ### ⭐ If you like this project, give it a Star!
