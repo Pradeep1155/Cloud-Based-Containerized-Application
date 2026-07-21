@@ -24,7 +24,6 @@ This project demonstrates the deployment of a Dockerized web application on Amaz
 - HTML
 - CSS
 - JavaScript
-- Git
 - GitHub
 
 ---
