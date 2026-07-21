@@ -69,12 +69,14 @@ Amazon EC2 Instance 2
 ---
 
 ##  Docker
-Dockerhub image
-docker pull pradeep1155/calculator-app:v1
-### Build Image
+
+### Build image
 
 ```bash
 docker build -t calculator-app .
+
+Dockerhub image
+ pull pradeep1155/calculator-app:v1
 ```
 
 ### Run Container
