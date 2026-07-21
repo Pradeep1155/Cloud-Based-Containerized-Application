@@ -124,13 +124,6 @@ Docker   Docker
  │         │
 Calculator Application
 ```
-
----
-
-##  Screenshots
-
-
-
 ---
 
 ##  Skills Demonstrated
