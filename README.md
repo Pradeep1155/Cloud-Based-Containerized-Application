@@ -145,7 +145,7 @@ Calculator Application
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - Deploy applications using Docker.
 - Configure AWS networking.
@@ -159,4 +159,4 @@ Calculator Application
 
 
 
-### ⭐ If you like this project, give it a Star!
+
